@@ -4,22 +4,20 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <h1>TechyStar</h1>
+        <h1>Medcare</h1>
         <p>@all right reserved</p>
       </div>
 
       <div>
         <h5>Follow Us</h5>
         <div>
-          <a href="https://youtube.com/6packprogrammer" target={"blank"}>
+          <a href="" target={"blank"}>
             Youtube
           </a>
-          <a href="https://instagram.com/meabhisingh" target={"blank"}>
+          <a href="" target={"blank"}>
             Instagram
           </a>
-          <a href="https://github.com/meabhisingh" target={"blank"}>
-            Github
-          </a>
+  
         </div>
       </div>
     </footer>

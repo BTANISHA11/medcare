@@ -1,19 +1,14 @@
 import React from "react";
 import vg from "../assets/2.webp";
-import {
-  AiFillGoogleCircle,
-  AiFillAmazonCircle,
-  AiFillYoutube,
-  AiFillInstagram,
-} from "react-icons/ai";
+
 
 const Home = () => {
   return (
     <>
       <div className="home" id="home">
         <main>
-          <h1>TechyStar</h1>
-          <p>Solution to all your problems</p>
+          <h1>Medcare</h1>
+          <p>Solution to all your health problems</p>
         </main>
       </div>
 
@@ -22,9 +17,8 @@ const Home = () => {
 
         <div>
           <p>
-            We are your one and only solution to the tech problems you face
-            every day. We are leading tech company whose aim is to increase the
-            problem solving ability in children.
+            We are your one and only solution to the health problems you face
+            every day. 
           </p>
         </div>
       </div>
@@ -51,49 +45,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="home4" id="brands">
-        <div>
-          <h1>Brands</h1>
-
-          <article>
-            <div
-              style={{
-                animationDelay: "0.3s",
-              }}
-            >
-              <AiFillGoogleCircle />
-              <p>Google</p>
-            </div>
-
-            <div
-              style={{
-                animationDelay: "0.5s",
-              }}
-            >
-              <AiFillAmazonCircle />
-              <p>Amazon</p>
-            </div>
-
-            <div
-              style={{
-                animationDelay: "0.7s",
-              }}
-            >
-              <AiFillYoutube />
-              <p>Youtube</p>
-            </div>
-
-            <div
-              style={{
-                animationDelay: "1s",
-              }}
-            >
-              <AiFillInstagram />
-              <p>Instagram</p>
-            </div>
-          </article>
-        </div>
-      </div>
+  
     </>
   );
 };
