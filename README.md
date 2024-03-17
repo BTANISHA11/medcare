@@ -4,7 +4,7 @@ This is a medcare website built using React, CSS, and Javascript.
 
 ## Demo
 
-You can also check out the live demo of the portfolio website [here](https://project1-one-lovat.vercel.app/).
+You can also check out the live demo of the website [here](https://project1-one-lovat.vercel.app/).
 
 ## Glimpses of the website
 
@@ -29,7 +29,7 @@ Start Server
 npm start
 ```
 # Features to be implemented
-Design a clean and intuitive interface that is easy to navigate, ensuring users can quickly find the information or services they need.
+- [ ] Design a clean and intuitive interface that is easy to navigate, ensuring users can quickly find the information or services they need.
 - [ ] Design a clean and intuitive interface that is easy to navigate, ensuring users can quickly find the information or services they need.
 - [ ]  Implement secure user accounts for personalized experiences, allowing users to manage their health records, appointments, and preferences.
 - [ ] Provide an online appointment scheduling system for various healthcare services, allowing users to book appointments with doctors, diagnostic labs, and other medical professionals.
