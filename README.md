@@ -6,8 +6,10 @@ This is a medcare website built using React, CSS, and Javascript.
 
 You can also check out the live demo of the portfolio website [here](https://project1-one-lovat.vercel.app/).
 
+## Glimpses of the website
 
-## Installation
+
+## Installation Guide
 
 Clone the Repo
 
