@@ -11,6 +11,7 @@ const Header = () => {
         <Link to={"/contact"}>Contact</Link>
         <HashLink to={"/#about"}>About</HashLink>
         <Link to={"/services"}>Services</Link>
+        <Link to={"/volunteer"}>Volunteer Registration</Link>
       </main>
     </nav>
   );

@@ -4,12 +4,14 @@ import Home from "./components/Home";
 import Footer from "./components/Footer";
 import Services from "./components/Services";
 import Contact from "./components/Contact";
+import VolunteerRegistrationForm from "./components/Volunteer";
 
 import "./styles/app.scss";
 import "./styles/header.scss";
 import "./styles/home.scss";
 import "./styles/footer.scss";
 import "./styles/contact.scss";
+import "./components/volunteer.scss";
 import "./styles/mediaquery.scss";
 
 function App() {
@@ -20,6 +22,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/services" element={<Services />} />
+        <Route path="/volunteer" element={<VolunteerRegistrationForm />} />
       </Routes>
       <Footer />
     </Router>
