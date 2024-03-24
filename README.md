@@ -35,15 +35,13 @@ You can also check out the live demo of the website [here](https://project1-one-
 
 ### Rename the .env.example file to .env file in the root directory and add the values for the environment variables
 ```bash
-
-
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: ""
+REACT_APP_API_KEY=""
+REACT_APP_AUTH_DOMAIN=""
+REACT_APP_PROJECT_ID=""
+REACT_APP_STORAGE_BUCKET=""
+REACT_APP_MESSAGING_SENDER_ID=""
+REACT_APP_MESSAGING_APP_ID=""
+REACT_APP_MEASUREMENT_ID=""
 ```
 ### You can refer a tutorial on how to get the firebase credentials [here](https://www.youtube.com/watch?v=ZTHdCMj3jP8)
 
