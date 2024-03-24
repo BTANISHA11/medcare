@@ -55,7 +55,7 @@ function RegistrationForm() {
                 </div>
                 <div className="password">
                     <label className="form__label" for="position">Why do you want to be a volunteer?</label>
-                    <textarea className="form__input" type="position"  id="position" value={position} onChange = {(e) => handleInputChange(e)} placeholder="Position"/>
+                    <textarea className="form__input" type="position"  id="position" value={position} onChange = {(e) => handleInputChange(e)} placeholder="Your Answer"/>
                 </div>
             </div>
             <div class="footer">
