@@ -5,13 +5,13 @@ MedCare is an online platform designed to provide comprehensive healthcare servi
 You can also check out the live demo of the website [here](https://project1-one-lovat.vercel.app/).
 
 ## Snapshots
-![Homepage](screenshots/home.png)
+![Homepage](Images/home.png)
 
-![Services](screenshots/services.png)
+![Services](Images/services.png)
 
-![Volunteer Registration](screenshots/volunteerreg.png)
+![Volunteer Registration](Images/volunteerreg.png)
 
-![Contact Us](screenshots/contact.png)
+![Contact Us](Images/contact.png)
 
 ## Project Setup
 
