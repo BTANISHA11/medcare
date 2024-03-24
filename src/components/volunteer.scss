@@ -10,24 +10,29 @@ body{
     width: 550px;
     margin: 20px auto;
     padding: 20px;
-    /* height: 600px; */
+    height: 500px; 
 }
 
 .form-body{
     text-align: left;
-    padding: 20px 10px;
+    padding: 20px 20px;
+    height : 400px;
 }
 
 .form-body > *{
     padding: 5px;
+    height: 100px;
 }
 
 .form__label{
     width: 40%;
+    text-align: inherit;
+    display: inline-block;
 }
 
 .form_input{
     width: 60%;
+    padding: 5px;
 }
 
 .footer{
