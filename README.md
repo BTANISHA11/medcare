@@ -2,6 +2,17 @@
 
 MedCare is an online platform designed to provide comprehensive healthcare services and resources to users, empowering them to manage their health effectively. Our mission is to make healthcare accessible, informative, and engaging for everyone.
 
+You can also check out the live demo of the website [here](https://project1-one-lovat.vercel.app/).
+
+## Snapshots
+![Homepage](Images/home.png)
+
+![Services](Images/services.png)
+
+![Volunteer Registration](Images/volunteerreg.png)
+
+![Contact Us](Images/contact.png)
+
 ## Project Setup
 
 **Clone the project**
@@ -22,6 +33,20 @@ MedCare is an online platform designed to provide comprehensive healthcare servi
   npm install
 ```
 
+### Rename the .env.example file to .env file in the root directory and add the values for the environment variables
+```bash
+
+
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
+```
+### You can refer a tutorial on how to get the firebase credentials [here](https://www.youtube.com/watch?v=ZTHdCMj3jP8)
+
 **Start the server**
 
 ```bash
@@ -40,36 +65,46 @@ MedCare is an online platform designed to provide comprehensive healthcare servi
 - [ ] Implement gamification features, encouraging users to participate in health challenges and rewarding them for adopting healthier habits.
 - [ ] Multilingual Support
 
-## Contribution
+# Contributing Guidelines
 
-We actively encourage contributions from the community to help improve Medcare and expand its impact.
+Before you start contributing, please take a moment to read the following guidelines to ensure a smooth and effective contribution process.
 
-## How to contribute
+## Table of Contents
 
-1. **Fork this Repository**
 
-2. **Clone the repository into your local system**
-   ```bash
-    git clone <fork repo url>
-   ```
-3. **Create a branch**
-   ```bash
-    git checkout -b <branch name>
-   ```
-4. **Make your changes**
-5. **Add & commit**
-    ```bash
-    git add .
-    git commit -m "Your commit message"
-    ```
-6. **Push changes to GitHub**
-   ```bash
-   git push origin <branch name>
-   ```
-7. **Click on `Create a Pull Request`**
-8. **Clearly describe your changes**
-9.  **Submit the PR**
-10.  **Leave a ⭐ on the repo**
+1. [How Can I Contribute?](#how-can-i-contribute)
+    - [Reporting Bugs](#reporting-bugs)
+    - [Suggesting Enhancements](#suggesting-enhancements)
+    - [Working on Issues](#working-on-issues)
+    - [Submitting Pull Requests](#submitting-pull-requests)
+
+
+
+## How Can I Contribute?
+
+### Reporting Bugs
+
+If you find a bug, please ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/BTANISHA11/medcare/issues). If you can't find an existing issue addressing the problem, please [open a new issue](https://github.com/BTANISHA11/medcare/issues/new) and provide detailed information about the bug.
+
+### Suggesting Enhancements
+
+If you have an idea for an enhancement, we welcome your input. Before creating a new enhancement issue, please check the existing issues to see if your enhancement idea has already been discussed. If it hasn't, [create a new issue](https://github.com/BTANISHA11/medcare/issues/new) and outline your enhancement proposal.
+
+### Working on Issues
+
+Feel free to pick any open issue from our [issue tracker](https://github.com/BTANISHA11/medcare/issues) that you find interesting. Comment on the issue that you would like to work on it so that others are aware you are addressing it. If you need more context on a particular issue, please ask for clarification.
+
+### Submitting Pull Requests
+
+1. Fork the repository and create your branch from `main`: `git checkout -b your-branch-name`
+2. Make your changes and test thoroughly.
+3. Add, commit, and push your changes to your forked repository.
+4. Create a pull request to the `main` branch of the original repository.
+5. Clearly describe your changes and why you think they should be merged.
+6. Be willing to make any requested changes or improvements.
+
+Thank you for contributing! 🚀
+
 
 
 <h3 align="center" > Together, we can make Medcare even more effective in addressing healthcare accessibility challenges worldwide.</h3>
