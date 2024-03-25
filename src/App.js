@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Services from "./components/Services";
 import Contact from "./components/Contact";
 import VolunteerRegistrationForm from "./components/Volunteer";
+import Call from "./components/Call";
 
 import "./styles/app.scss";
 import "./styles/header.scss";
@@ -13,6 +14,8 @@ import "./styles/footer.scss";
 import "./styles/contact.scss";
 import "./components/volunteer.scss";
 import "./styles/mediaquery.scss";
+import "./styles/call.scss";
+
 
 function App() {
   return (
@@ -23,6 +26,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/services" element={<Services />} />
         <Route path="/volunteer" element={<VolunteerRegistrationForm />} />
+        <Route path="/call" element={<Call />} />
       </Routes>
       <Footer />
     </Router>
