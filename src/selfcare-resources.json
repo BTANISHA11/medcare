@@ -1,0 +1,66 @@
+
+[
+    {
+        "title": "The Self-Care Handbook",
+        "description": "Self-care is the cornerstone of healthy, effective relationships and lifestyle, yet it's the most underutilized resource in our personal/spiritual growth and wellness toolkits.",
+        "imageUrl": "https://www.kendruck.com/wp-content/uploads/2022/09/self-care-handbook-1024x1024.png",
+        "link": "https://www.kendruck.com/wp-content/uploads/2017/09/Ken-Druck-self_care.bk_.pdf",
+        "category": "ebook"
+    },
+    {
+        "title": "27 Natural Health and Nutrition Tips That Are Evidence-Based",
+        "description": "If you want to boost your health and wellbeing, there are plenty of natural and home remedies to choose from, ranging from avoiding charred meats and added sugars to practicing meditation.",
+        "imageUrl": "https://post.healthline.com/wp-content/uploads/2021/02/track-running-water-exercise-drinking-1296x728-header.jpg",
+        "link": "https://www.healthline.com/nutrition/27-health-and-nutrition-tips",
+        "category": "article"
+    },
+    {
+        "title":"Self Care Workbook",
+        "description": " Self-care is a conscious act one takes in order to promote their own physical, mental, and emotional health. There are many forms selfcare may take. It could be ensuring you get enough sleep every night or stepping outside for a few minutes for some fresh air.'quote from everydayhealth.com'",
+        "imageUrl":"https://uploads-ssl.webflow.com/60cbf7138c3c2c7da0e0eb70/62bb95aac92ca0b410045946_62983eda03b3e50fafd90286_Self-care-Workbook_page_1-p-500.png",
+        "link":"https://www.stress.org.uk/wp-content/uploads/2021/05/Self-care-Workbook.pdf",
+        "category":"ebook"
+    },
+    {
+        "title":"10 Tips for Maintaining a Healthy Lifestyle and Body Weight",
+        "description": "At this extreme moment, we began working from home, away from campus, and keeping social distance for as many people as possible. As we stay home and are stuck with the foods that have been in our fridge or pantry for a whils we are temporarily living a sedentary lifestyle with increased odds of physical inactivity, excessive eating and sitting. stress, anxiety, and depression In particular, many of us will gain some weight during the pandemic and may keep the extra weight permanently, which may carry considerable health risks for type 2 diabetes, hypertension, heart attack stroke, and other health problems",
+        "imageUrl":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRr4728hETtWlzQ-sA0zQIPpGMS4s5nj4kdv46gWz4nwVaokTPN",
+        "link":"https://fsph.iupui.edu/doc/10-Tips-Healthy-Lifestyle.pdf",
+        "category":"ebook"
+    },
+    {
+        "title":"Natural Remedies for Eczema: Holistic Solutions for Healthy Skin",
+        "description": "'Natural Remedies for Eczema' offers a holistic approach to managing and alleviating eczema symptoms. This comprehensive guide explores herbal remedies, dietary changes, and lifestyle adjustments to soothe irritated skin and promote healing. Discover evidence-based strategies, DIY recipes, and tips for managing stress and improving overall skin health.",
+        "imageUrl":"https://www.free-ebooks.net/2d_covers/large/1710785179.jpg",
+        "link":"https://www.free-ebooks.net/health/Natural-Remedies-for-Eczema-Holistic-Solutions-for-Healthy-Skin#gs.6lp8il",
+        "category":"ebook"
+    },
+    {
+        "title": "How to Practice Emotional First Aid",
+        "description": "TED Talk on how to practice emotional aid by psychologist Dr GUY WINCH",
+        "imageUrl":"https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",
+        "link": "https://youtu.be/F2hc2FLOdhI",
+        "category": "video"
+    },
+    {
+        "title": "50 Simple Self-Care Tips",
+        "description": "If you’re new to the world of self-care, this video by Los Angeles-based vlogger Uwodoo is the perfect start. She lists 50 quick and easy self-care tips that can help people relieve stress and anxiety in a healthy way. All of the tips are practical and utilize tools that most people already have at home.",
+        "imageUrl":"https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",
+        "link": "https://youtu.be/M16y4K4aOHY",
+        "category": "video"
+    },
+    {
+        "title": "All it Takes is 10 Mindful Minutes",
+        "description": "In this TED Talk, meditation and mindfulness expert Andy Puddicombe explains how people can take 10 minutes each day to create a sustainable mindfulness practice that can benefit them in many areas of their lives.",
+        "imageUrl":"https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",
+        "link": "https://youtu.be/qzR62JJCMBQ",
+        "category": "video"
+    },
+    {
+        "title": "Removing Negative Self Talk",
+        "description": "Master yoga teacher Abria Joseph breaks down exactly how you can reframe internal criticism to create a positive dialogue with yourself. “I believe, passionately, that we can shift the negative voices and stories that are going on in our minds into positive ones,” Joseph says. 'We have to question the thoughts, voices, and stories we have in our mind.'",
+        "imageUrl":"https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",
+        "link": "https://youtu.be/teVE3VGrBhM",
+        "category": "video"
+    }
+]
