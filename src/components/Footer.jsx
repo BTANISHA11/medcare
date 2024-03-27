@@ -103,7 +103,7 @@ const Footer = () => {
                 </a>
               </li>
               <li className="mt-3">
-                <a className="text-gray-500 cursor-pointer hover:text-gray-900">
+                <a href="/resources" className="text-gray-500 cursor-pointer hover:text-gray-900">
                   Help Resources
                 </a>
               </li>
