@@ -6,10 +6,9 @@ You can also check out the live demo of the website [here](https://project1-one-
 
 ## Snapshots
 ![Homepage](Images/home.png)
-
-
+![Login](Images/login.png)
+![Register](Images/register.png)
 ![Services](Images/services.png)
-
 ![Volunteer Registration](Images/volunteerreg.png)
 ![Resources](Images/resources.png)
 ![Contact Us](Images/contact.png)
