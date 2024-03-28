@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './volunteer.scss'
-import {auth} from './firebase';
+import {db} from './firebase';
 import {collection, addDoc} from 'firebase/firestore';
 function RegistrationForm() {
     
@@ -28,7 +28,7 @@ function RegistrationForm() {
     }
 
     const submitHandler  = () => {
-            addDoc(collection(auth, "volunteers"), {
+            addDoc(collection(db, "volunteers"), {
                 firstName: firstName,
                 lastName: lastName,
                 email: email,
