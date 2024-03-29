@@ -42,7 +42,7 @@ function Login() {
           Login with Google
         </button>
         <div>
-          Don't have an account? <Link to="/register">Register</Link> now.
+          Don't have an account? <Link to="/register"> Sign Up </Link> now.
         </div>
       </div>
     </div>
