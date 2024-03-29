@@ -10,6 +10,7 @@ import Call from "./components/Call";
 import Login from "./components/Login";
 import Dashboard from "./components/Dashboard";
 import Register from "./components/Register";
+import Appointment from "./components/Appointment";
 
 import "./styles/app.scss";
 import "./styles/header.scss";
@@ -23,6 +24,7 @@ import "./styles/call.scss";
 import "./styles/login.scss";
 import "./styles/dashboard.scss";
 import "./styles/register.scss";
+import "./styles/appointment.scss";
 
 
 function App() {
@@ -39,6 +41,7 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/appointment" element={<Appointment />} />
       </Routes>
       <Footer />
     </Router>
