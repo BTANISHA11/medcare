@@ -42,7 +42,7 @@ function Terms() {
 
         <section>
           <h2>7. Contact Us</h2>
-          <p>If you have any questions or concerns about these Medical Terms and Conditions, please contact us at examplemail@gmail.com.</p>
+          <p>If you have any questions or concerns about these Medical Terms and Conditions, please contact us at example@gmail.com.</p>
         </section>
       </main>
     </div>

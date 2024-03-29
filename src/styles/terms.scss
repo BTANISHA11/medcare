@@ -17,7 +17,7 @@ body {
   }
   h1{
     color: black;
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     font-weight: bold;
     margin-bottom: 20px;
   }
@@ -36,11 +36,9 @@ body {
   p {
     margin-bottom: 20px;
     font-size: 1.2rem;
-    background: black;
     color: transparent;
+    background: radial-gradient(circle at left, black, blue);
     -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
   
   
