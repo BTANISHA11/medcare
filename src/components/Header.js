@@ -10,12 +10,9 @@ const Header = () => {
         <HashLink to={"/#home"}>Home</HashLink>
         <HashLink to={"/#about"}>About Us</HashLink>
         <Link to={"/services"}>Services</Link>
-        <Link to={"/resources"}>Resources</Link>
         <Link to={"/volunteer"}>Volunteer Registration</Link>
         <Link to={"/contact"}>Contact Us</Link>
-        <Link to={"/call"}>Call Support</Link>
         <Link to={"/login"}>Login</Link>
-        <Link to={"/register"}>Sign Up</Link>
       </main>
     </nav>
   );

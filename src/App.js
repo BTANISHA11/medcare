@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { useEffect, useState } from "react";
 import Header from "./components/Header";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
@@ -11,6 +12,9 @@ import Login from "./components/Login";
 import Dashboard from "./components/Dashboard";
 import Register from "./components/Register";
 import Appointment from "./components/Appointment";
+import Terms from "./components/Terms";
+import BoxesLoader from "./components/Loader";
+
 
 import "./styles/app.scss";
 import "./styles/header.scss";
@@ -28,7 +32,23 @@ import "./styles/appointment.scss";
 
 
 function App() {
+  const [loading, setLoading] = useState(false);
+  useEffect(() => {
+    setLoading (true);
+    setTimeout(() => {
+      setLoading(false);
+    },2000)
+
+  }, []);
   return (
+    <div>
+    {
+      loading ?
+  <div style={{minHeight:"100vh", width: "100%", display:"flex",justifyContent:"center",alignItems:"center"}}>
+  <BoxesLoader color="#36d7b7" loading={loading} />
+  </div>
+  :
+
     <Router>
       <Header />
       <Routes>
@@ -41,11 +61,13 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/terms" element={<Terms />} />
         <Route path="/appointment" element={<Appointment />} />
       </Routes>
       <Footer />
     </Router>
+}
+</div>
   );
 }
-
 export default App;
