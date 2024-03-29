@@ -6,11 +6,11 @@ You can also check out the live demo of the website [here](https://project1-one-
 
 ## Snapshots
 ![Homepage](Images/home.png)
-
+![Login](Images/login.png)
+![Register](Images/signup.png)
 ![Services](Images/services.png)
-
 ![Volunteer Registration](Images/volunteerreg.png)
-
+![Resources](Images/resources.png)
 ![Contact Us](Images/contact.png)
 
 ## Project Setup
@@ -33,15 +33,15 @@ You can also check out the live demo of the website [here](https://project1-one-
   npm install
 ```
 
-### Rename the .env.example file to .env file in the root directory and add the values for the environment variables
+### Replace the dummy firebase credentials in firebase.js file with your real firebase credentials
 ```bash
-REACT_APP_API_KEY=""
-REACT_APP_AUTH_DOMAIN=""
-REACT_APP_PROJECT_ID=""
-REACT_APP_STORAGE_BUCKET=""
-REACT_APP_MESSAGING_SENDER_ID=""
-REACT_APP_MESSAGING_APP_ID=""
-REACT_APP_MEASUREMENT_ID=""
+  apiKey: " AIzaSyD-4",
+  authDomain: " medcare-72185.firebaseapp.com",
+  projectId: "medcare-72185",
+  storageBucket: "medcare-72185.appspot.com",
+  messagingSenderId: "252642172466",
+  appId: "1:252642172465:web:1a4c1b",
+  measurementId: "G-4"
 ```
 ### You can refer a tutorial on how to get the firebase credentials [here](https://www.youtube.com/watch?v=ZTHdCMj3jP8)
 
@@ -106,3 +106,4 @@ Thank you for contributing! 🚀
 
 
 <h3 align="center" > Together, we can make Medcare even more effective in addressing healthcare accessibility challenges worldwide.</h3>
+
