@@ -8,7 +8,7 @@ const Footer = () => {
           <a className="flex items-center justify-center font-medium text-gray-900 title-font md:justify-center">
             <img src={logo} alt="logo" />
           </a>
-          <p className="mt-2 text-sm text-gray-500">Empowering health through knowledge, compassion, and innovation</p>
+          <p className="mt-2 text-sm text-gray-500">Design, Code and Ship!</p>
           <div className="mt-4">
             <span className="inline-flex justify-center mt-2 sm:ml-auto sm:mt-0 sm:justify-start">
               <a className="text-gray-500 cursor-pointer hover:text-gray-700">
