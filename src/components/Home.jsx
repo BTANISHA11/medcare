@@ -27,22 +27,20 @@ const Home = () => {
         <div>
           <h1>Who we are?</h1>
           <p>
-          Welcome to MedCare, your premier destination for comprehensive medical information and resources. At MedCare, we are dedicated to providing accurate, reliable, and up-to-date information to empower individuals to make informed decisions about their health and well-being.
-
-Our team consists of experienced medical professionals, writers, and researchers who are committed to delivering high-quality content that is both informative and accessible. We understand the importance of trustworthy medical information in today's digital age, and we strive to ensure that all content published on our website meets the highest standards of accuracy and credibility.
-
-Whether you're seeking information about common medical conditions, exploring treatment options, or simply looking to improve your overall health, we are here to serve as your trusted resource. From in-depth articles and expert advice to practical tips and guides, we cover a wide range of topics to address your health concerns and support your wellness journey.
-
-At Medcare , we prioritize the health and well-being of our users above all else. Our commitment to excellence drives us to continuously update and expand our content, ensuring that you have access to the latest developments in medicine and healthcare.
-
-Thank you for choosing MedCare as your trusted source for medical information. We're here to help you navigate your health journey with confidence and peace of mind.
-
-
-
-
-
-
-
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
+            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
+            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
+            mollitia. Dolor placeat repellendus officia aspernatur dolorum
+            harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium
+            quia tempore. Dignissimos esse sequi numquam est ipsam nemo,
+            voluptas vel recusandae iste aspernatur qui quasi, commodi, atque
+            ipsa dolores tempore asperiores? Dolores soluta placeat molestiae
+            aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
+            nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
+            similique maxime praesentium sunt unde necessitatibus voluptates
+            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
+            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
+            sed cumque corporis voluptate quibusdam nostrum quod saepe
           </p>
         </div>
       </div>
