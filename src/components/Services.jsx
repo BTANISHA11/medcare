@@ -18,7 +18,7 @@ const Services = () => {
       >
         <div>
           <img src={img1} alt="Item1" />
-          <p className="legend"><Link>Book Appointment</Link></p>
+          <p className="legend"><Link to={"/appointment"}>Book Appointment</Link></p>
         </div>
         <div>
           <img src={img2} alt="Item3" />
