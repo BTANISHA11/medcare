@@ -98,7 +98,7 @@ const Footer = () => {
             </h2>
             <nav className=" flex flex-col justify-start items-start mb-10 list-none bg-transparent">
               <li className="mt-3">
-                <a className="text-gray-500 cursor-pointer hover:text-gray-900">
+                <a href="/contact" className="text-gray-500 cursor-pointer hover:text-gray-900">
                   Contact Support
                 </a>
               </li>
@@ -120,7 +120,7 @@ const Footer = () => {
             </h2>
             <nav className="flex flex-col justify-start items-start mb-10 list-none bg-transparent">
               <li className="mt-3">
-                <a className="text-gray-500 cursor-pointer hover:text-gray-900">
+                <a href="/terms" className="text-gray-500 cursor-pointer hover:text-gray-900">
                   Terms &amp; Privacy
                 </a>
               </li>
@@ -130,19 +130,19 @@ const Footer = () => {
                 </a>
               </li>
               <li className="mt-3">
-                <a className="text-gray-500 cursor-pointer hover:text-gray-900">
+                <a href="/faq" className="text-gray-500 cursor-pointer hover:text-gray-900">
                   FAQ
                 </a>
               </li>
             </nav>
           </div>
           <div className="w-full px-4 lg:w-1/4 md:w-1/2">
-            <h2 className="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">
+            <h2  className="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">
               Contact
             </h2>
             <nav className="flex flex-col justify-start items-start mb-10 list-none bg-transparent">
               <li className="mt-3">
-                <a className="text-gray-500 cursor-pointer hover:text-gray-900">
+                <a href="/call" className="text-gray-500 cursor-pointer hover:text-gray-900">
                   Send a Message
                 </a>
               </li>
@@ -152,7 +152,7 @@ const Footer = () => {
                 </a>
               </li>
               <li className="mt-3">
-                <a className="text-gray-500 cursor-pointer hover:text-gray-900">
+                <a href="/call" className="text-gray-500 cursor-pointer hover:text-gray-900">
                   +123-456-7890
                 </a>
               </li>

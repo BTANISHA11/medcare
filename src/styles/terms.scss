@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  h1{
+    color: black;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: cyan;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+
+  p {
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    background: black;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  
