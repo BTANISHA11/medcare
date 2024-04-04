@@ -1,13 +1,18 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { useEffect, useState } from "react";
-import Header from "./components/Header";
-import Home from "./components/Home";
-import Footer from "./components/Footer";
-import Services from "./components/Services";
+
+
+
+// pages
+import Home from "./pages/Home";
+import Services from "./pages/Services";
+
+
+
 import Resources from "./components/Resources";
-import Contact from "./components/Contact";
+import Contact from "./pages/Contact";
 import VolunteerRegistrationForm from "./components/Volunteer";
-import Call from "./components/Call";
+import Call from "./pages/Call";
 import Login from "./components/Login";
 import Dashboard from "./components/Dashboard";
 import Register from "./components/Register";
@@ -15,7 +20,11 @@ import Appointment from "./components/Appointment";
 import Terms from "./components/Terms";
 import BoxesLoader from "./components/Loader";
 
+// components
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
+// styling
 import "./styles/app.scss";
 import "./styles/header.scss";
 import "./styles/home.scss";
