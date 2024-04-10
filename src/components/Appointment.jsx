@@ -1,4 +1,3 @@
-import React from "react";
 import {auth} from './firebase';
 import {collection, addDoc} from 'firebase/firestore';
 import { useState } from 'react';

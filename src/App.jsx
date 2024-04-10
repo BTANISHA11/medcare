@@ -6,13 +6,11 @@ import { useEffect, useState } from "react";
 // pages
 import Home from "./pages/Home";
 import Services from "./pages/Services";
-
-
+import Contact from "./pages/Contact";
+import Call from "./pages/Call";
 
 import Resources from "./components/Resources";
-import Contact from "./pages/Contact";
 import VolunteerRegistrationForm from "./components/Volunteer";
-import Call from "./pages/Call";
 import Login from "./components/Login";
 import Dashboard from "./components/Dashboard";
 import Register from "./components/Register";

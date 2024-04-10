@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import {useState} from 'react';
 import './volunteer.scss'
 import {auth} from './firebase';
 import {collection, addDoc} from 'firebase/firestore';

@@ -1,7 +1,5 @@
 import '../styles/terms.scss';
 
-import React from 'react';
-
 function Terms() {
   return (
     <div>

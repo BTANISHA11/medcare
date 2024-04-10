@@ -1,10 +1,7 @@
-import React from 'react';
-const _ = require('lodash');
-
+import { truncate } from 'lodash';
 
 const SelfCareCard = ({ title, description, imageUrl, link }) => {
-  const truncatedDescription = _.truncate(description, { length: 130 });
-
+  const truncatedDescription = truncate(description, { length: 130 });
 
   return (
     <div className="self-care-card">
