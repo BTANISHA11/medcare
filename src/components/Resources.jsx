@@ -1,4 +1,3 @@
-import React from "react";
 import selfcareResources from '../selfcare-resources.json';
 import SelfCareCard from "./SelfCareCard";
 
